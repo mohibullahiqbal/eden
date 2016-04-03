@@ -788,7 +788,7 @@
 'Delete this Filter': 'حذف کردن فلتر',
 'Delete Training': 'حذف کردن آموزش',
 'Delete Training Event': 'حذف کردن رویداد آموزشی',
-'Delete Volunteer': 'حذف کردن داوطلب',
+'Delete Volunteer': 'حزف کردن رضاکار,
 'Delete Volunteer Cluster': 'حذف کردن گروه داوطلب',
 'Delete Volunteer Cluster Position': 'حذف کردن منصب گروه داوطلب',
 'Delete Volunteer Cluster Type': 'حذف کردن جایگاه گروه داوطلب',
